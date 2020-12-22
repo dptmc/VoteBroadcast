@@ -3,6 +3,7 @@ version: @version@-@apiversion@
 author: DartPower
 website: https://github.com/dptmc/VoteBroadcast
 main: io.dpteam.VoteBroadcast.Main
+api-version: 1.13
 commands:
     votebroadcast:
         description: VoteBroadcast - voting links broadcaster...
