@@ -1,4 +1,5 @@
-# DPT-PluginRepoTemplate
-DPT Specific Plugins for Bukkit-based plugin template
+# VoteBroadcast
 
-![Build](https://github.com/dptmc/DPT-PluginRepoTemplate/workflows/Build/badge.svg)
+VoteBroadcast
+
+![Build](https://github.com/dptmc/VoteBroadcast/workflows/Build/badge.svg)
