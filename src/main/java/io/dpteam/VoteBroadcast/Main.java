@@ -11,11 +11,12 @@ public class Main extends JavaPlugin {
 	}
 
 	public void onEnable() {
-		this.getServer().getLogger().info("[DPT.MC] VoteBroadcast Enabled");
+		this.getServer().getLogger().info("[VoteBroadcast] Plugin loaded and enabled");
 	}
 
+	@Override
 	public void onDisable() {
-		this.getServer().getLogger().info("[DPT.MC] VoteBroadcast Disabled");
+		this.getServer().getLogger().info("[VoteBroadcast] Plugin unloaded and disabled");
 	}
 
 	public boolean onCommand(CommandSender sender, Command command, String commandLabel, String[] args) {
